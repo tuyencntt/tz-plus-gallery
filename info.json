@@ -19,8 +19,8 @@
         "changelog" : "<p><strong>Version 1.1.2</strong></p><ol><li>Support WordPress Albums.</li><li>Fixed Conflict with Bootstrap menu in mobile layout.</li><li>Fixed load photo when click to albums.</li>"
     },  
      "banners" : {
-		"low" : "https://www.dropbox.com/s/u915jbmev92npge/banner-772x250.jpg",
-		"high" : "https://www.dropbox.com/s/u915jbmev92npge/banner-772x250.jpg"
+		"low" : "http://wordpress.templaza.net/update/plusgallery/banner-772x250.jpg",
+		"high" : "http://wordpress.templaza.net/update/plusgallery/banner-772x250.jpg"
     },
     
     "rating" : 100,
